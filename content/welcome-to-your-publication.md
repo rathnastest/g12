@@ -1,17 +1,17 @@
 ---
 schemaId: urn:gala:schema:content-frontmatter:2.0.0
-schemaVersion: '2.0.0'
-id: 00000000-0000-7000-8000-000000000010
+schemaVersion: 2.0.0
+id: 01a11c7a-b09c-7f7e-8220-a4057524fb3c
 kind: article
 title: Welcome to your publication
 language: en-US
 authors:
-  - 00000000-0000-7000-8000-000000000002
+- 01a11c7a-b09c-7a88-86d6-9f805f726f27
 tags:
-  - welcome
+- welcome
 status: published
-createdAt: '2026-09-27T00:00:00.000Z'
-publishedAt: '2026-09-27T00:00:00.000Z'
+createdAt: '2026-10-08T17:06:05.084Z'
+publishedAt: '2026-10-08T17:06:05.084Z'
 slug: welcome-to-your-publication
 redirects: []
 extensions: {}
